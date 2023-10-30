@@ -1,7 +1,7 @@
-package com.weshare.mbg.service;
+package com.weshare.api.service;
 
-import com.weshare.mbg.entity.User;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.weshare.mbg.entity.User;
 
 /**
  * <p>

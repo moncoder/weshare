@@ -1,9 +1,9 @@
-package com.weshare.mbg.service.impl;
+package com.weshare.api.service.impl;
 
+import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.weshare.api.service.INoteService;
 import com.weshare.mbg.entity.Note;
 import com.weshare.mbg.mapper.NoteMapper;
-import com.weshare.mbg.service.INoteService;
-import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
 /**
